@@ -1113,7 +1113,7 @@ function library:CreateWindow(name, version, icon)
 				ToggleTitle.Parent = Toggle
 				ToggleTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 				ToggleTitle.BackgroundTransparency = 1.000
-				ToggleTitle.Position = UDim2.new(0, 7, 0, 1)
+				ToggleTitle.Position = UDim2.new(0, 7, 0, 4)
 				ToggleTitle.Size = UDim2.new(1, -7, 0.5, 0)
 				ToggleTitle.Font = Enum.Font.GothamBlack
 				ToggleTitle.Text = title
